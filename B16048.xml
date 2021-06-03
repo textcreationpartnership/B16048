@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iack a Lent his beginning and entertainment with the many pranks of his gentleman-vsher Shroue Tuesday that goes before him, and his foot-man Hunger attending. With new additions, dedicated both to the butchers farewell and the fishmongers entrance: written to choake melancholy, and to feed mirth. By Iohn Tailor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16048</idno><idno type="EEBO-CITATION">99838231</idno>
+  <idno type="VID">177582</idno>
+  <idno type="EEBO-PROQUEST">2240910131</idno>
+  <idno type="STC">STC 23765.5</idno>
+  <idno type="STC">ESTC S102446</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838231e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1085:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iack a Lent his beginning and entertainment with the many pranks of his gentleman-vsher Shroue Tuesday that goes before him, and his foot-man Hunger attending. With new additions, dedicated both to the butchers farewell and the fishmongers entrance: written to choake melancholy, and to feed mirth. By Iohn Tailor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by G. Purslowe] for I. T[rundle?] and are to be sold at Christ Church gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and bookseller's names in imprint from STC.</note>
+                  <note>Signatures: A⁴(-A1) B-C⁴.</note>
+                  <note>Identified as STC 23765 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="bookplate">
+            <pb facs="tcp:177582:1"/>
+            <p>
+               <add>
+                  <figure>
+                     <p>Francis Freeling</p>
+                     <figDesc>bookplate of Francis Freeling</figDesc>
+                  </figure>
+               </add>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:177582:1"/>
+            <pb facs="tcp:177582:2"/>
+            <pb facs="tcp:177582:2"/>
+            <pb facs="tcp:177582:3"/>
+            <p>
+               <figure>
+                  <p>Hunger.</p>
+                  <p>Iack a Lent.</p>
+                  <p>Shroue-Tuesday.</p>
+               </figure>
+            </p>
+            <p>London printed for <hi>I. T.</hi> and are to be sold at Christ Church Ga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. 1620.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177582:4"/>
+            <pb facs="tcp:177582:4"/>
+            <head>To the Fishmongers and <hi>Butchers, greeting.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Riendly, frolicke, franke, free<g ref="char:EOLhyphen"/>hearted, famous, flourishing <hi>Fishmongers;</hi> And braue, bold, battring, Beefe-braining <hi>Butchers,</hi> to both your Com<g ref="char:EOLhyphen"/>panies in generall I wish health and happi<g ref="char:EOLhyphen"/>nesse: I acknowledge you to be Haberdash<g ref="char:EOLhyphen"/>ers for the belly, and I wish a plentifull in<g ref="char:EOLhyphen"/>crease of good appetites, and hungry sto<g ref="char:EOLhyphen"/>macks, that euery one in their calling may proue valiant of their teeth, whereby you may feede merrily by the profit you receiue by nimble-chop'd feeders. I haue plainely and briefely set downe <hi>Iack a Lents</hi> good deeds and his bad, his friends and his foes, the great need and necessitie that we haue of his comming once a yeere into this King<g ref="char:EOLhyphen"/>dome,
+<pb facs="tcp:177582:5"/> and the great pitie that he is no better entertained and obserued. And though it be written in a merrie stile, yet I dare presume that mirth and truth walke together in it. In a word, reade it if you like, and iudge it as you list, please your selues and I am pleased: and giue <hi>Iack a Lent</hi> no worse fare for his welcome then he deserues; and then hee re<g ref="char:EOLhyphen"/>maines euer yours to be commanded, at the signe of <hi>Pisces,</hi> for a dish of Powts, a Carp, or a Cods-head.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177582:5"/>
+            <head>IACK A LENT.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">O</seg>F <hi>Iacke an Apes</hi> I list not to endite,</l>
+               <l>Nor of <hi>Iack Daw</hi> my Gooses quill shall write:</l>
+               <l>Of <hi>Iack</hi> of <hi>Newbery</hi> I will not repeat,</l>
+               <l>Nor <hi>Iack of both sides,</hi> nor of <hi>Skip-Iacke</hi> neate.</l>
+               <l>To praise the Turn-spit <hi>Iacke</hi> my Muse is mum,</l>
+               <l>Nor of the entertainment of <hi>Iacke Drum</hi>
+               </l>
+               <l>Ile not rehearse: nor of <hi>Iacke Dogge, Iacke Date,</hi>
+               </l>
+               <l>
+                  <hi>Iacke foole</hi> or <hi>Iacke a Dandy</hi> I relate:</l>
+               <l>Nor of Blacke <hi>Iacks</hi> at gentle Buttry bars,</l>
+               <l>Whose liquor oftentimes breeds houshold wars:</l>
+               <l>Nor <hi>Iacke</hi> of <hi>Douer</hi> that Grand Iury <hi>Iacke,</hi>
+               </l>
+               <l>Nor <hi>Iack Sawce</hi> (the worst knaue amongst the pack.)</l>
+               <l>But of the <hi>Iacke</hi> of <hi>Iacks,</hi> Great <hi>Iacke a Lent,</hi>
+               </l>
+               <l>To write his worthy acts is my intent;</l>
+               <l>How hee's attended with a messe of <hi>Iacks,</hi>
+               </l>
+               <l>Whose fame my Artlesse weake inuention cracks,</l>
+               <l>
+                  <hi>Iacke Herring</hi> and <hi>Iacke Sprat, Iack Straw, Iacke Cade,</hi>
+               </l>
+               <l>These are the <hi>Iacks</hi> with which my pen must trade.</l>
+            </lg>
+            <pb facs="tcp:177582:6"/>
+            <p>TO speake of the originall of this <hi>Iack,</hi> or from whence the name of <hi>Iack</hi> hath deriuation, I thinke it not impertinent to shew you: Therefore I would haue all men vnderstand that <hi>Iack</hi> is no Christian, nor was euer baptiz'd, but is sprung (like a Musrom) out of the corruption of the name of <hi>Iohn;</hi> for before <hi>Iohns</hi> were, I did neuer find mention of any <hi>Iacks,</hi> except black <hi>Iacks:</hi> and there was an old courteous Epithite attribu<g ref="char:EOLhyphen"/>ted to <hi>Iohn</hi> (as gentle <hi>Iohn</hi>) but now so many <hi>Iacks</hi> are made Gentles, that most <hi>Iohns</hi> and <hi>Iacks</hi> make no further account of Gentilitie, then glorious Titles and gawdy Sutes: so much for <hi>Iack.</hi>
+            </p>
+            <p>Now for the name and beginning of <hi>Lent</hi> (as neere as I can I will describe) the word <hi>Lent</hi> doth signifie, a thing borrowed: for except a thing bee borrowed, how is it lent? and beeing lent, it followes by consequence that it was borrowed. But from whom it was borrow<g ref="char:EOLhyphen"/>ed, or who was so free of the leane of this <hi>Lent,</hi> that would be knowne.</p>
+            <p>First then, you must conceiue, that the true Etimo<g ref="char:EOLhyphen"/>logie, or ancient name of this <hi>Lent,</hi> is <hi>Lean-tide,</hi> which being Anagrammatiz'd, is (<hi>Land it</hi>) for the chiefe proui<g ref="char:EOLhyphen"/>sion that he is furnished withall being fish, and such sea<g ref="char:EOLhyphen"/>faring fare, that except hee land it, there will bee but cold takings in the fish-markets: for <hi>Iack a Lent</hi> hath no so<g ref="char:EOLhyphen"/>cietie, affinitie or propinquitie with flesh and bloud, and by reason of his leannesse (as <hi>Nymshag</hi> an ancient <hi>Vto<g ref="char:EOLhyphen"/>pian</hi> Philosopher declares in his Treatise of the Anti<g ref="char:EOLhyphen"/>quitie of Ginger-bread, <hi>Lib 7. Pag. 30000.</hi>) hee should haue beene a Foot-man to a Prince of that Empire na<g ref="char:EOLhyphen"/>med <hi>Lurguash Haddernot;</hi> but <hi>Lent</hi> shewed him the trick of a right Foot-man, and ran away from him faster then an Irish Lacquey, and from that time to this was neuer seene in <hi>Vtopia.</hi> Besides, hee hath the Art of Le<g ref="char:EOLhyphen"/>gerdemaine beyond al the Jugglers in <hi>Egypt</hi> or <hi>Europe,</hi>
+               <pb facs="tcp:177582:6"/> for with a tricke that he hath, hee is in <hi>England, Scot<g ref="char:EOLhyphen"/>land, France, Ireland,</hi> and the most part of the Christi<g ref="char:EOLhyphen"/>an world at once and the selfe-same time, yet for all this nimblenesse and quicke agilitie, hee was neuer seene to sweate, which is no maruell, because hee hath not any fat or pinguiditie in his incorporeall corps. Hee hath a wife named <hi>Fasting,</hi> as leane as himselfe, yet sure I thinke shee is as honest, as barren: but it were very dan<g ref="char:EOLhyphen"/>gerous for an Epicure or a Puritan to haue a Bastard by her; for there were no other hope, but that the father of the brat (if it should proue male) would tutor it in all disobedience against both <hi>Lent</hi> and <hi>Fasting:</hi> for although <hi>Lent</hi> and Abstinence be but forty dayes endurance, yet to these valiant men of their téeth it séemes forty yeeres, for they put the letter (c) into the word <hi>Fast,</hi> and turne it into <hi>Feast.</hi> And though a man eat Fish til his guts crack, yet if he eate no flesh, he Fasts, because he eates as fast as he can. For the word Fast is to be taken in many sences, as to fast from feeding, and to feede fast, to bee bown to fast, and to be bound fast.</p>
+            <p>The Fast from feeding is diuers wayes performed.</p>
+            <p n="1">1 Some there are that fast for pure deuotion, with a zealous abstinence from any kinde of corporall foode for a space, because they will bring downe and curbe their vnbridled affections, and tame their fleshly desires, that so the exercise of spirituall contemplation may bee the more feruent, their repentance more vnfained, and thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prayers more acceptable.</p>
+            <p n="2">2 Another Fast is hypocriticall or sophisticall, as a holy Maid that inioyned her selfe to abstaine foure daies from any meate whatsoeuer, and being locked vp close in a roome, she had nothing but her two Bookes to feede vpon, but the Bookes were two painted Boxes, made in the forme of great Bibles with claspes and bosses, the inside not hauing one word of God in them, nor any
+<pb facs="tcp:177582:7"/> fault escaped in the printing, but the one well fild with Suckets, and sweet meates, and the other with Wine, vpon which this deuout▪ Votary did fast with zealous meditation, eating vp the contents of one Booke, and drinking contentedly the other.</p>
+            <p n="3">3 Then there is a Fast called in spight of your teeth, and that is, Will yee nill yee, when a mans stomacke is in <hi>Folio,</hi> and knowes not where to haue a dinner in <hi>de<g ref="char:EOLhyphen"/>cimo sexto.</hi> This Fast I haue often met withall at the Court, and at diuers great mens houses, not because there hath wanted meat, but because some haue wanted manners, and I haue wanted impudence.</p>
+            <p>But <hi>Iack a Lents</hi> fast is otherwise then all those, for I am as willing to fast with him as to feast with <hi>Shroue<g ref="char:EOLhyphen"/>tide:</hi> for hee hath an army of various dishes, an hoast of diuers fishes, with Sallets, Sawees, sweet-meates, Wine, Ale, Beere, Fruit, Rootes, Reysins, Almonds, Spices, with which I haue often (and care not much to doe more often) made as good a shift to fast; and with as good a zeale performed it, as a Brownist will goe to plow vpon a Christmas day.</p>
+            <p>Thus hauing shewed the originall of this <hi>Iack,</hi> it fol<g ref="char:EOLhyphen"/>lowes next, that I declare his yeerely entertainment into this Ile of Great <hi>Brittaine,</hi> what priuiledges he hath, to whom he is best welcome, who are glad of his depar<g ref="char:EOLhyphen"/>ture, what friends or foes he hath, and where he inhabi<g ref="char:EOLhyphen"/>teth all the yeere after his going from hence.</p>
+            <p>Alwayes before <hi>Lent</hi> there comes waddling a fat grosse bursten-gutted groome, called <hi>Shroue-Tuesday,</hi> one whose manners shewes that hee is better fed then taught: and indeed hee is the onely monster for feeding amongst all the dayes of the yeere, for hee deuoures more flesh in fourteene houres, then this whole King<g ref="char:EOLhyphen"/>dome doth (or at the least should do) in sixe weekes after:
+<pb facs="tcp:177582:7"/> such boyling and broyling, such roasting and toasting, such stewing and brewing, such baking▪ frying, mincing, cutting, caruing, deuouring, and gorbellyed gurmondi<g ref="char:EOLhyphen"/>zing, that a man would thinke people did take in two moneths prouision at once into their paunches, or that they did ballast their bellies with meate for a voyage to <hi>Constantinople,</hi> or the <hi>West-Indies.</hi>
+            </p>
+            <p>Moreouer, it is a goodly sight to see how the Cookes in great mens Kitchins, doe fry in their masters Suet, and sweat in their own Grease, that if euer a Cooke bee worth the eating, it is when <hi>Shroue-Tuesday</hi> is in town, for he is so stued and larded, roasted, basted, and almost ouer-roasted, that a man may eate the rawest bit of him and neuer take a surfet. In a word, they are that day extreme Cholericke, and too hot for any man to meddle with, being Monarchs of the Marrow bones, Marquesses of the Mutton, Lords high Regents of the Spit and the Kettle, Barrons of the Gridiron, and sole Commanders of the Frying-pan. And all this hurly burly is for no other purpose, but to stop the mouth of this Land-whale <hi>Shroue-Tuesday.</hi> At whose entrance in the morning, all the whole kingdome is in quiet, but by that time the clocke strikes eleuen, which (by the helpe of a knauish Sexton) is commonly before nine, then there is a Bell rung, call'd <hi>The Pancake Bell,</hi> the sound whereof makes thousands of people distracted, and forgetfull eyther of manners or humanitie: Then there is a thing cal'd wheaten flowre, which the sulphory Necromanticke Cookes doe mingle with water, Egges, Spice, and other tragicall magicall inchantments, and then they put it by little and little, into a Frying pan of boyling Suet, where it makes a confused dismall hissing (like the Learnean Snakes in the Reeds of <hi>A<g ref="char:EOLhyphen"/>cheron, Stix,</hi> or <hi>Phlegeton</hi>) vntill at the last by the skill of the Cookes, it is transform'd into the forme of a Flap<g ref="char:EOLhyphen"/>iack,
+<pb facs="tcp:177582:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177582:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177582:9"/> which in our translation is call'd a Pancake, which ominous incantation the ignorant people doe deuoure very greedily (hauing for the most part well dined be<g ref="char:EOLhyphen"/>fore) but they haue no sooner swallowed that swéet can<g ref="char:EOLhyphen"/>dyed baite, but straight their wits forsake them, and they runne starke mad assembling in routs and throngs num<g ref="char:EOLhyphen"/>berlesse of vngouerned numbers, with vnciuill ciuill commotions.</p>
+            <p>Then <hi>Tim Tatters</hi> (a most valiant villaine) with an Ensigne made of a piece of a Bakers mawkin fixt vpon a Broome-staffe, hee displayes his dreadfull colours, and calling the ragged Regiment together, makes an illite<g ref="char:EOLhyphen"/>rate Oration, stuft with most plentifull want of discre<g ref="char:EOLhyphen"/>tion: the conclusion whereof is, that somewhat they will doe, but what they know not. Vntill at last comes mar<g ref="char:EOLhyphen"/>ching vp another troope of Tatterdemalians, proclay<g ref="char:EOLhyphen"/>ming wars against no matter who, so they may be doing. Then these Youths arm'd with cudgels, stones, ham<g ref="char:EOLhyphen"/>mers, rules, trowels, and hand-sawes, put Play-houses to the sack, and Bawdy-houses to the spoile, in the quar<g ref="char:EOLhyphen"/>rell breaking a thousand quarrels (of glasse I meane) ma<g ref="char:EOLhyphen"/>king ambitious brickbats breake their necks, tumbling from the tops of lofty chimnies, terribly vntyling hou<g ref="char:EOLhyphen"/>ses, ripping vp the bowels of feather-beds, to the inrich<g ref="char:EOLhyphen"/>ing of Vpholsters, the profit of Plaisterers and Dirt-dawbers, the gaine of Glasiers, Ioyners, Carpenters, Tylers and Bricklayers. And which is worse, to the contempt of Iustice: for what auailes it for a Constable with an armie of reuerend rusty Bill-men to command peace to these beasts, for they with their pockets in stead of Pistols, well-charg'd with stone-shot, discharge a<g ref="char:EOLhyphen"/>gainst the Image of Authority whole volleyes as thicke as Hayle, which robustious repulse puts the better sort to the worser part, making the band of vnscowred Hal<g ref="char:EOLhyphen"/>berdiers retyre faster then euer they came on, and shew
+<pb facs="tcp:177582:9"/> exceeding discretion in prouing tall men of their heeles. Thus by the vnmannerly manners of <hi>Shroue-Tuesday</hi> Constables are baffled, Bawdes are bangd, Punkes are pillag'd, Panders are plagued, and the chiefe Comman<g ref="char:EOLhyphen"/>manders of these valorous villia<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, for their reward for all this confusion, do in conclusion purchase the inhe<g ref="char:EOLhyphen"/>ritance of a Iayle, to the commodity of Iaylors, and dis<g ref="char:EOLhyphen"/>commodity of themselues, with a fearfull expectation that Tyburne shall stop their throats, and the Hangman take possession of their coats, or that some Beadle in bloo<g ref="char:EOLhyphen"/>dy Characters shall imprint their faults on their shoul<g ref="char:EOLhyphen"/>ders. So much for <hi>Shroue-Tuesday, Iack-a-Lents</hi> Gen<g ref="char:EOLhyphen"/>tleman Vsher, these haue beene his humours in former times, but I haue some better hope of reformation in him heereafter, and indeed I wrote this before his com<g ref="char:EOLhyphen"/>ming this yeere 1619. not knowing how hee would be<g ref="char:EOLhyphen"/>haue himselfe: but tottering betwixt Despayre &amp; Hope I leaue him.</p>
+            <p>
+               <hi>Shroue-Tuesday</hi> hauing playd these parts aforesaid, doth <hi>Exit,</hi> and next day <hi>Lent</hi> begins to enter, who is en<g ref="char:EOLhyphen"/>tertain'd by a graue, formall, reuerend States-man, call'd Ciuill Policy: But you must vnderstand, that <hi>Lent</hi> would very faine take vp his lodging here with Religion, but Religion will not bee acquainted with him; and therefore Ciuill Policy hath the managing of the businesse. But it is a wonder to see what Munition and Artillery the Epicures, &amp; Canniball Flesh-eaters do prouide to oppose <hi>Lent,</hi> and keepe him out at the staffes end, as whole barrels of poudered béefe to blow him vp, tubs of Pork to pistoll and shoot him thorow with his kindred hunger, famine, and desolation, Baricadoes of Bacon as strong &amp; impregnable Bulwarkes against his inuasiue battery. Which Ciuill Policy perceiuing, causeth Proclamations straight to bee published for the establishing of <hi>Lents</hi> Gouernment, but then to see how
+<pb facs="tcp:177582:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177582:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177582:11"/> the Butchers (like silenced Schismaticks) are disperst, some riding into the Countrey to buy Oxen, Kine, Calues, Sheepe and Lambs, leauing their wiues, men and maids to make prouision of Pricks for the whole yeere in their absence: some againe of the inferiour sort doe scout into Stables, Priuies, Sellers, Sir <hi>Francis Drakes</hi> Ship at Detford, my Lord Mayors Barge, and diuers secret vnsuspected places, and there they make priuate Shambles with kil-calfe cruelty, and Sheepe-slaughtering murder, to the abuse of <hi>Lent,</hi> the deceiuing of the Informers, and the great griefe of euery zealous Fishmonger.</p>
+            <p>For indéed <hi>Lent</hi> in his own nature is no blood-sucker, nor cannot indure any bloudshed; and it is his intent, that the Bull, the Oxe, the Ram, the Goate, the Buck, or any other Beast should bee frée to liue in any Corporati<g ref="char:EOLhyphen"/>on without molestation: it is <hi>Lents</hi> intent that the inno<g ref="char:EOLhyphen"/>cent Lambe, and the Essex Calfe, should suruiue to weare the crest of their Ancestors: that the Goose, the Buzzard, the Widgen, and the Woodcock, may walke fearelesse in any Market Towne, cheeke by iole with a Headborough, or a Tithingman.</p>
+            <lg>
+               <l>The Cut-throat Butchers, wanting throats to cut,</l>
+               <l>At Lents approach their bloody Shambles shut:</l>
+               <l>For forty dayes their tyrannie doth cease,</l>
+               <l>And men and beasts take truce and liue in peace:</l>
+               <l>The Cow, the Sow, the Ewe may safely feed,</l>
+               <l>And lough, grunt, bleate, and fructifie and breed,</l>
+               <l>Cocks, Hens, and Capons, Turkey, Goose and Widgeon,</l>
+               <l>Hares, Conies, Phesant, Partridge, Plouer, Pidgeon:</l>
+               <l>All these are from the breake-neck Poulters pawes</l>
+               <l>Secur'd by Lent, and guarded by the lawes,</l>
+               <l>The goaring Spits are hang'd for fleshly sticking,</l>
+               <l>And then Cookes fingers are not worth the licking.</l>
+            </lg>
+            <pb facs="tcp:177582:11"/>
+            <p>But to recount the numberlesse Army that <hi>Lent</hi> doth conduct, the great prouision of Munition and Artillery that he hath to withstand those that gain-stand him, his weapons of offence and defence, and varietie of hostile Acoustrements that his hoast is arm'd withall: if I should write all these things, my memory must bee boundlesse, because my worke would be endlesse. First, marches Sir <hi>Lawrence Ling,</hi> with his Regiment, an ancient Sea-faring Gentleman: next followes <hi>Collo<g ref="char:EOLhyphen"/>nell Cod,</hi> oftentimes bleeding fresh in the Battell: then comes Captaine <hi>Stock-fish,</hi> a well beaten Souldier, and one that is often proued to endure much; Sir <hi>Salmon Salt,</hi> in a pittifull Pickle valiantly abides the conflict, and <hi>Gilbert Gubbins</hi> all to tatters like a ragged souldier many times pieces out a broken supper. The maiesticall king of Fishes, the heroicall most magnificent <hi>Herring</hi> arm'd in White and Red, keepes his Court in all this hurly-hurly not like a tyrannicall teare-throat in open Armes, but like wise <hi>Diogenes</hi> in a Barrel, where if any of his Regiments either doe or take iniury, though hee want the sword of Iustice, yet hee hath the scales, which I imagine hee carries not for nought. The great Lord Treasurer to this mighty Prince (old <hi>Oliuer Cob</hi>) is very inward with him, and knowes more of his secrets then all his Priuy Counsell besides: and when his hard-row'd Master meanes to shew himselfe in his red bloudy colours, then in fury hee associates himselfe with two notorious Rebels, <hi>Iacke Strawe</hi> and <hi>Iacke Cade,</hi> who do encompasse him round, and beleaguer him on each side, guarding his person from the fury of winde and weather.</p>
+            <p>The wet Fishmongers all this while (like so many Executioners) vnkennell the salt Eeales from their briny Ambuscadoes, and with marshall Law hang them vp: the Stock-fish hauing tryed a terrible action
+<pb facs="tcp:177582:12"/> of battery is condemned to be drown'd, the Ling, Ha<g ref="char:EOLhyphen"/>berdine, Gréen-fish and Cole-fish, are drawne and quar<g ref="char:EOLhyphen"/>tered into poles, backs, and tayles, and (like Rebels in Ireland) hangd with a With: nay, the King of fishes himselfe cannot escape, but is tyrannically broyled vpon a Gridiron. Then comes <hi>Iack-Sauce</hi> with a spoone cree<g ref="char:EOLhyphen"/>ping out of a Mustard pot, arm'd in a pewter Sawcer, a desperate fellow, and one that dares take <hi>Dauy Ap Dig<g ref="char:EOLhyphen"/>gon</hi> or <hi>Shon Ap Morgan,</hi> by the nose, and many times (with the spirit of <hi>Teuxbury</hi>) he will make a man weepe being most merry, and take the matter in snuffe being well pleased.</p>
+            <lg>
+               <l>The Whiting, Rotchet, Gournet and the Mop,</l>
+               <l>The Scate and Thorneback, in the net doth drop:</l>
+               <l>The pied-coat Macrell, Pilchard, Sprat and Soale,</l>
+               <l>To serue great Iack-a-Lent amaine doe trole.</l>
+            </lg>
+            <p>In the Reareward comes Captaine <hi>Crab,</hi> Liefte<g ref="char:EOLhyphen"/>nant <hi>Lobster,</hi> (whose catching clawes alwayes puts me in minde of a Sergeant) the blushing Prawne, the well-armd Oyster, the Scallop, the Wilke, the Mussell, Coc<g ref="char:EOLhyphen"/>kle, and the Periwinckle, these are hot shots, Veneriall prouocators, fishy in substance, and fleshy in operation. The poore Anchoue is pittifully pepper'd in the fight, whilst the Sturgion is keg'd, randed, and iold about the eares, and in conclusion without dissembling eaten with Fennell, the Embleme of flatterie: But the Anchoue is oftentimes reuenged vpon his eaters, for being deuou<g ref="char:EOLhyphen"/>red raw, he broyles in their stomacks so hotly, that before the heat be quenched, the eaters are drenched in the blood of <hi>Bacchus,</hi> Sacke and Claret, that though a man be as wise as a Constable at his entrance, his wit sometimes is so shrunke in the wetting, that hee may want the vn<g ref="char:EOLhyphen"/>derstanding of an Asse.</p>
+            <pb facs="tcp:177582:12"/>
+            <p>Then there are a crue of neere bred fresh-water Soul<g ref="char:EOLhyphen"/>diours, our Thamessisians, our Comrades of Barking, our easterne and westerne Riuer-Rouers, these youths are brought and caught by whole shoales, for indeede they are no fighters, but meere white-liuerd heart-lesse runawayes, like the great Turkes Asapye, that if the Fishermen (like diligent Catch-poles) did not watch norrowly to catch them by hooke and by crooke, by line and leasure, <hi>Lent</hi> might gape for Gudgeons, Roch and Dace: were it not for these Netmongers, it is no flat lye to say, the Flounder might lye flat in his watry Cabin, and the Eele (whose slippery tayle puts mee in minde of a formall Courtiers promise) would wriggle vp and downe in his muddy habitation, which would be a great discommodity for schoole-boyes, through the want of scourges to whip Gigs and Towne-Tops.</p>
+            <lg>
+               <l>The Breame, the Lamprey, Barbell, But, and Pike,</l>
+               <l>Secure might keepe the Riuer, Pond, and Dike:</l>
+               <l>Carps, Tench, Perch, Smelts, would neuer come to land,</l>
+               <l>But for Nets, Angles, and the Fishers hand:</l>
+               <l>And bawling queanes that vse to sell and buy,</l>
+               <l>Would cry, because they want wherewith to cry.</l>
+            </lg>
+            <p>To speake of the honesty of Fisher-men, and the ac<g ref="char:EOLhyphen"/>count that we ought to make of their Calling, it was the faculty of <hi>Simon, Andrew, Iames</hi> and <hi>Iohn,</hi> the blessed Apostles, and by a common Rule, all Fishermen must bee men singularly endued, and possest with the vertue of patience, for the Prouerb sayes, If you sweare, you shall catch no Fish, and I my selfe haue beene an eye<g ref="char:EOLhyphen"/>witnesse, when seuen or eight Anglers haue employed their best Art and industry two houres, and in the end they haue not beene able to share one Gudgeon or a Bleake amongst them all, the cause hath beene, either
+<pb facs="tcp:177582:13"/> there was no Fish to bee caught, or else one impa<g ref="char:EOLhyphen"/>tient fellow of the Company hath sworne away good lucke.</p>
+            <p>I could runne ten Kingdomes (or Reames) of paper out of breath, in the praise of this leane <hi>Iacke,</hi> and his spawnes (Ember-wéekes, Fridayes, and fasting dayes) But I suppose there are none more sorrowfull in the time of his beeing heere then Gentlemen and Gentle<g ref="char:EOLhyphen"/>women, for through the Royall Court, the Innes of Court, the Citie and Country, all the better sort weare mourning blacke as long as <hi>Lent</hi> is in towne: But so soone as hee is gone, then they change colours, and Feast, Banquet, Reuell, and make merry, as if the Land were fréed from some notorious Termagant Mon<g ref="char:EOLhyphen"/>ster, some murdering Plague, or some deuouring Famine.</p>
+            <p>The Bakers metamorphose their trade from one shape to another, his round halfe-penny Loaues are transform'd into square Wigs, (which Wigs like drun<g ref="char:EOLhyphen"/>kards are drown'd in their Ale) the Rolles are turn'd to Simnels, in the shape of Bread-pies, and the light puft vp foure-corner'd Bun, doth shew that the knaue<g ref="char:EOLhyphen"/>ry of the Baker is vniuersall, in <hi>Europe, Asia, Affrick,</hi> and <hi>America:</hi> for since Colliers and Scriueners haue purchas'd the possession of the Pillory from them, their light bread brings in heauy gaines; where if by chance a Batch or a Basket full beeing examined by the scales of Iustice, and the bread committed to Newgate for want of weight, and the Baker to the Compter for lacke of Conscience, yet hee knowes he shall out againe, and with a trick that he hath, in one weeke he will reco<g ref="char:EOLhyphen"/>uer the consumption of his purse againe, by his mode<g ref="char:EOLhyphen"/>rate light handling of the medicine of Meale, Yeast, and Water.</p>
+            <p>But now suppose that Palme-sunday is past, and
+<pb facs="tcp:177582:13"/> that you see <hi>Lent</hi> and both the Fish-streets sing loth to depart, whilst euery wet Fishmonger wrings his hands, and by the reason of cold takings, beates himselfe in<g ref="char:EOLhyphen"/>to a heat, whil'st (to their great griefe) whole herds of Oxen, and flockes of Sheepe, are driuen into euery Towne, for no other purpose but to driue <hi>Lent</hi> out of the Countrey.</p>
+            <lg>
+               <l>Then pell-mell Murder in a purple hue,</l>
+               <l>In reeking bloud his slaughtering pawes embrew:</l>
+               <l>The Butchers Axe (like great <hi>Alcides</hi> Bat)</l>
+               <l>Dings deadly downe, ten thousand thousand flat:</l>
+               <l>Each Butcher (by himselfe) makes Marshall Lawes,</l>
+               <l>Cuts throats, and kils, and quarters, hangs and drawes.</l>
+            </lg>
+            <p>It is a thing worthy to bee noted, to sée how all the Dogges in the Towne doe wagge their tayles for ioy, when they see such prouision to driue away <hi>Lent,</hi> (for a Dogge, a Butcher, and a Puritan, are the greatest ene<g ref="char:EOLhyphen"/>mies hee hath) but there is one day in the yeere that Dogges in generall are most affraid, and that is the Friday after Easter: for they hauing past sixe weekes without seeing any flesh, and indured a hard seidge by <hi>Lent</hi> and fish-bones, then at Easter they sée flesh on the Sunday, Munday, Tuesday, Wednesday and Thurs<g ref="char:EOLhyphen"/>day, and when the Friday comes they sée great store of fish againe: the poore Curres (all in a pittifull quandarie) stinke for woe, for feare that another <hi>Lent</hi> is come so<g ref="char:EOLhyphen"/>dainely vpon them: thus they continue in that dogged perplexitie till the Sunday following, when the appea<g ref="char:EOLhyphen"/>rance of flesh makes them haue a feeling, that they were more affraid then hurt.</p>
+            <p>But imagine <hi>Lent</hi> is gone, but who knowes whither he is gone? that would be knowne: for it cannot be, but that so mighty a Monarch as hee, hath his in roades and
+<pb facs="tcp:177582:14"/> his outloapes, his standing court of continuall residence, as well as his tents, houses, and places of remouall for pleasure and progresse. For he comes to vs but by way of annuall visitation: to the Capuchin Fryers he comes twice euery yeere, for they keepe two <hi>Lents,</hi> because they will be sure to fast double, for when a thing is well done (tis an old saying) it is twice done, and by conse<g ref="char:EOLhyphen"/>quence a thing being twice done, must bee well done: I know not why they doe it, but some say that it is a worke of Super arr rogation: and so I leaue them.</p>
+            <p>But <hi>Lent</hi> kéepes his continuall Court with the holy Couents of vnsanctified Fathers, the Fryers Carthu<g ref="char:EOLhyphen"/>sians, these are they that haue made a perpetuall diuorce from beasts, and birds: these are they that haue con<g ref="char:EOLhyphen"/>firm'd an euerlasting League with <hi>Lent,</hi> and all the rag<g ref="char:EOLhyphen"/>ged Aquarian Regiments of the spacious Kingdome of <hi>Pisces.</hi> For when they enter into their order first, they are inioyned neuer to touch or taste any manner of flesh whatsoeuer, which they doe inuiolably performe: for let Hunger and thin-gutted Famine assault them neuer so cruelly, so that there were no fish to be had, yet they hold it meritorious to straue and famish, rather then to eate flesh. For indeed in cases of necessity they haue power to metamorphose flesh into fish: (as for example) when any towne is besieged and sharpely assailed with warre without, and famine within, that meate is falne into such a Consumption that fish is gone, and flesh is scarce, then these venerable fathers (by Apostaticall po<g ref="char:EOLhyphen"/>wer which they haue) can take a Sir Loyne of Beefe and thrust his knighthood into a tub of water, and com<g ref="char:EOLhyphen"/>mand him to come forth transform'd into a Ling, and so for all kinde of flesh else, they can turne a Pig to a Pike, a Goose into a Gurnet, a Hen to a Herring, a Sow to a Salmon, and an Owle to an Oyster: and all these are no wonders to them, for they are all as nothing to their
+<pb facs="tcp:177582:14"/> exorcising tricke of Transubstantiation in the Sacra<g ref="char:EOLhyphen"/>ment: for it is not possible for any thing to be impossible to them that can make their Maker, and coniure their Sauiour into the forme of bread, and eate him when they haue done. With these enemies of carnality <hi>Lent</hi> hath domesticall perpetuity, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se obserue his Lawes more firmely then they do eyther the first or second Table, and twenty Citizens shall breake politiquely, and take vp their lodging in <hi>Luds</hi> vnlucky gate, before they wil crack the least Iniunction that is articulated betwixt <hi>Lent</hi> and them.</p>
+            <p>Thus hauing shewed the progresse, egresse and re<g ref="char:EOLhyphen"/>gresse of this Mediterranian, Atlantike, Belgick, Gallo<g ref="char:EOLhyphen"/>belgicus, this Caspian, Iberian, British, Celtick, Calli<g ref="char:EOLhyphen"/>donian, commanding Marine countermaunder, I thinke it not amisse to declare what good hee doth in this King<g ref="char:EOLhyphen"/>dome, the time of his being here, and how much more good he would doe if he were rightly obserued.</p>
+            <p>As it is a matter of conscience to obey superiour and supreme Magistrates, so in that respect I hold it a con<g ref="char:EOLhyphen"/>science to abstaine from flesh-eating in <hi>Lent:</hi> not that I thinke it to be vncleane to the cleane, or that the eating or not eating is meritorious: for I am perswaded that a man may goe to Heauen as well with a legge of a Ca<g ref="char:EOLhyphen"/>pon, as with a Red Herring. But séeing <hi>Lent</hi> is ordained to a good intent, for the increase and preseruation of Calues, Lambs, Swine, and all kinde of beasts and birds whatsoeuer, whereby the bréeding and mulltiplici<g ref="char:EOLhyphen"/>ty of these creatures makes our Land the terrestriall Paradise of plenty, and so is (by the bountifull blessings of the Almighty all-giuing Giuer) able to maintaine her selfe, and relieue many neighbouring Realmes and Re<g ref="char:EOLhyphen"/>gions: Surely they are no good Common-wealths man, that wilfully will breake so tolerable an institution, as to refraine sixe or seuen weekes in a yeere from flesh,
+<pb facs="tcp:177582:15"/> hauing so much variety and change of fish and other sustenance more then sufficient.</p>
+            <p>It is most certaine, that if <hi>Lent</hi> were truely kept, and the fish-dayes in euery weeke duely obserued, and that euery house in this kingdome did spend but the quantity of two Haberdine or Greenfish in a weeke, that then this Kingdom of Great <hi>Brittaine</hi> both for meat and Mariners would be the Mistresse of the world, and for wealth and riches superlatiue to the Mines of <hi>America.</hi>
+            </p>
+            <p>But the nature of man is so peruerse, that like <hi>Pando<g ref="char:EOLhyphen"/>raes</hi> Boxe, he will be tooting and prying soonest into that which he is most restrained from, wherein hee shewes himselfe to be no changeling, but the naturall sonne of <hi>Adam,</hi> and heyre to his frailety and disobedience: for in common reason (for a common good) if there were no Statutes, no Precepts or Commands for the keeping of <hi>Lent</hi> and fish-dayes, men would of themselues, (and by their owne imagination) bridle their fleshly appetites with the snaffle of discretion. It is an vnmeasurable de<g ref="char:EOLhyphen"/>triment to this Kingdome, the abuse, neglect, and con<g ref="char:EOLhyphen"/>tempt of this so laudable and commodious an instituti<g ref="char:EOLhyphen"/>on, and the due obseruing of it duly would be vnualuable, I thinke past the reach of Arithmeticke: but I haue of<g ref="char:EOLhyphen"/>ten noted, that if any superfluous feasting or gourman<g ref="char:EOLhyphen"/>dizing paunch-cramming assembly doe meete, the disor<g ref="char:EOLhyphen"/>dered businesse is so ordered, that it must bee eyther in <hi>Lent,</hi> vpon a Friday, or a Fasting day: for the meat doth not rellish wel, except it be sawc'd with disobedience and contempt of Authority. And though they eate Sprats on the Sunda<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, they care not, so they may bee full gorg'd with flesh on the Friday night.</p>
+            <lg>
+               <l>Then all the zealous Puritans will feast</l>
+               <l>In detestation of the Romish Beast.</l>
+            </lg>
+            <pb facs="tcp:177582:15"/>
+            <p>For mine own part (as I haue before written) I hold fish or flesh no Maxims, Axioms, or grounds of Religion, but those that wilfully and contemptuously doe eate flesh in the <hi>Lent</hi> (except such whose appetites are repugnant to fish, and whose nature hath not béen vsed to it, except such as are sick, and women with childe, for all which there is a lawfull toleration) except such I say, hee that feasts with flesh in <hi>Lent,</hi> I wish he might be constrained to fast with fish all the yeere after for his contempt.</p>
+            <p>Wide and large is the way that I might trauell in this spacious businesse: but few words are best, especially if they be spoken to the wise: and if my poore <hi>Iack-a-Lent</hi> do happen into the hands of a foole, 'tis but a Foole and a <hi>Iack,</hi> or two fooles well met: but here is the ods, a wise man will make much of <hi>Iack</hi> for his plaine dealing and true speaking, when a foole will quarrell with him, and falling together by the eares, teare one anothers clothes, and then <hi>Iacks</hi> paper-ierkin goes to wracke.</p>
+            <div type="epilogue">
+               <head>Epilogue to <hi>Iack-a-Lent.</hi>
+               </head>
+               <lg>
+                  <l>FArewell thou Noble <hi>Iack</hi> of <hi>Iacks,</hi> farewell,</l>
+                  <l>Hye thee to <hi>Italy,</hi> to <hi>Rome</hi> or <hi>Spaine:</hi>
+                  </l>
+                  <l>There of thy welcome heere report and tell,</l>
+                  <l>But looke this tweluemonth come not heere again.</l>
+                  <l>And when that time is full expir'd and runne,</l>
+                  <l>Come heere againe, as yeerely thou hast done.</l>
+                  <l>And thy poore Corps with hunger vp to raise,</l>
+                  <l>Take with thee Ember-weekes and fasting dayes.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:177582:16"/>
+            <head>Certaine blanke Verses, written of purpose to no purpose, yet so plaine<g ref="char:EOLhyphen"/>ly contriu'd, that a Childe of two yeeres old may vnderstand them as well as a <hi>good Scholler of fifty.</hi>
+            </head>
+            <lg>
+               <l>GReat <hi>Iack a Lent,</hi> clad in a Robe of Ayre,</l>
+               <l>Threw mountaines higher then <hi>Alcides</hi> beard:</l>
+               <l>Whil'st Pancradge Church, arm'd with a Samphier blade,</l>
+               <l>Began to reason of the businesse thus:</l>
+               <l>You squandring Troglodites of Amsterdam,</l>
+               <l>How long shall <hi>Cerberus</hi> a Tapster be?</l>
+               <l>What though stout <hi>Aiax</hi> lay with <hi>Proserpine,</hi>
+               </l>
+               <l>Shall men leaue eating powdred Beefe for that?</l>
+               <l>I see no cause but men may pick their teeth,</l>
+               <l>Though <hi>Brutus</hi> with a sword did kill himselfe.</l>
+               <l>Is shooters Hill turn'd to an Oyster Pye,</l>
+               <l>Or may a May-pole be a butterd Plaice?</l>
+               <l>Then let Saint Katherines saile to Bridewell Court,</l>
+               <l>And Chitterlings be worne for statute Lace:</l>
+               <l>For if a Humble Bee should kill a Whale</l>
+               <l>With the butt-end of the Antarticke Pole,</l>
+               <l>'Tis nothing to the marke at which we ayme:</l>
+               <l>For in the Commentaries of Tower Ditch,</l>
+               <l>A fat stew'd Bawd hath been a dish of state.</l>
+               <l>More might be said, but then more must be spoke,</l>
+               <l>The weights fell downe because the lack-rope broke.</l>
+               <l>And he that of these lines doth make a doubt,</l>
+               <l>Let him sit downe and pick the meaning o<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>▪</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177582:16"/>
+            <pb facs="tcp:177582:17"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:177582:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
